@@ -13,7 +13,7 @@ I'm mostly using the [🧃JUCE framework](juce.com) to make audio plugins, which
 But I'm also interested in other (often dawless) ways of making music.
 
 There is much that hasn't been explored in the digital realm, especially for the interface .
-I design UIs that are firsty _inspirative_ and secondly _usable_ or _practical_. 
+I design UIs that are first _inspirational_ and second _usable_ or _practical_. 
 Informed by research on parameter mapping, use of modular synth and general sound mangling.
 
 - 📫 Reach me at [`thomasvguillory@gmail.com`](mailto:thomasvguillory@gmail.com)
